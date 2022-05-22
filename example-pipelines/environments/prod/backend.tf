@@ -15,7 +15,7 @@
 
 terraform {
   backend "gcs" {
-    bucket = "PROJECT_ID-tfstate"
+    bucket = "norse-fragment-350714-tfstate"
     prefix = "env/prod"
   }
 }
