@@ -1,6 +1,6 @@
 
 
-project_id = ""
+project_id = "norse-fragment-350714"
 tfstate_gcs_backend = "norse-fragment-350714-tfstate"
 region = "us-east4"
 zones = ["us-east4-a"]
